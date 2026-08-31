@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it as below, and/or cite the
+  associated paper once published (see preferred-citation).
+type: software
+title: build_master_catalog
+authors:
+  - family-names: Maksimova
+    given-names: Lomara
+    affiliation: >-
+      Research Laboratory for Astrochemistry, Ural Federal University
+repository-code: 'https://github.com/astro-lom/exo-host-gaia-crossmatch'
+license: MIT
+version: 1.0.0
+date-released: '2026-08-31'
+
+# preferred-citation:
+#   type: article
+#   title: "TITLE OF PAPER I"
+#   authors:
+#     - family-names: Maksimova
+#       given-names: Lomara
+#     - family-names: Vereshchagin
+#       given-names: Sergei
+#     - family-names: Sizova
+#       given-names: Maria
+#   journal: "JOURNAL NAME"
+#   year: 2026
+#   doi: "10.xxxx/xxxxx"
