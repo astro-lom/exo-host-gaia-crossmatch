@@ -106,5 +106,4 @@ read). Apply the same guards to any new large-integer column.
 
 ## License and citation
 
-MIT License (see `LICENSE`). Please cite via `CITATION.cff` (GitHub
-shows a "Cite this repository" button automatically).
+MIT License (see `LICENSE`). Please cite via `CITATION.cff`.
